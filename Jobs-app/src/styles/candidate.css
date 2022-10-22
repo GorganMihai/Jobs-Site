@@ -1,0 +1,32 @@
+#canditate1 {
+	height: 65px;
+	width: 853px;
+	margin: 2px 0px 8px 40px;
+	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+	float: left;
+	display: inline;
+}
+
+#canditate1:hover {
+	box-shadow: 0 2px 3px 0 rgba(128, 222, 255, 1);
+	border-color: rgb(128, 222, 255);
+}
+
+#candidatelogo {
+	width: 59px;
+	margin: -6px 25px 0px 18px;
+	border-radius: 29px;
+}
+
+#n,
+#s {
+	display: inline-block;
+	width: 120px;
+	padding-top: 20px;
+}
+
+#exp {
+	display: inline-block;
+	width: 465px;
+	margin-left: 30px;
+}

@@ -1,0 +1,166 @@
+#card {
+	height: 220px;
+	width: 940px;
+	margin: auto;
+	margin-bottom: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	display: block;
+}
+
+#divLogo {
+	margin-top: 20px;
+	float: left;
+}
+
+#specs {
+	float: right;
+	margin-top: 27px;
+	margin-right: 550px;
+	width: 210px;
+	height: 114px;
+}
+
+#specs h5,
+h6 {
+	width: 700px;
+}
+
+#buttons {
+	display: inline-block;
+	width: 715px;
+	border-top: 1px solid rgb(228, 228, 228);
+	margin-left: 178px;
+	padding-top: 16px;
+}
+
+#btnApply {
+	float: right;
+}
+#logo {
+	border-radius: 15px;
+}
+#data,
+#locatie {
+	color: rgb(187, 185, 185);
+}
+
+#btnModify {
+	margin-left: 370px;
+	width: 100px;
+}
+
+#cardMod {
+	height: 660px;
+	width: 940px;
+	margin: auto;
+	margin-bottom: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	display: block;
+}
+
+#modCard {
+	width: 950px;
+	height: 460px;
+	display: inline-block;
+	margin-top: -25px;
+}
+#line {
+	margin-top: 30px;
+	border-bottom: 1px solid rgb(228, 228, 228);
+	width: 845px;
+	height: 2px;
+	margin-left: 42px;
+}
+
+#btnDeleteJobForm {
+	margin-top: 15px;
+	width: 100px;
+	float: left;
+}
+
+#btnOk {
+	margin-top: 15px;
+	width: 100px;
+	float: right;
+}
+
+#btnApply {
+	width: 80px;
+}
+
+#applyCard {
+	height: 700px;
+	width: 940px;
+	margin: auto;
+	margin-bottom: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	display: block;
+}
+
+#addPicture {
+	margin: 75px 20px 5px 40px;
+	border-radius: 80px;
+	width: 150px;
+	border: 1px solid rgb(202, 202, 202);
+	background-color: rgb(184, 184, 184);
+	box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+	float: left;
+}
+
+#addPicture:hover {
+	border: 1px solid rgb(128, 222, 255);
+	box-shadow: 0 0px 10px 5px rgba(191, 222, 255, 3);
+}
+
+#applyForm {
+	margin-top: 22px;
+	margin-left: 20px;
+
+	height: 350px;
+	width: 690px;
+	margin: 2px solid black;
+	display: inline-block;
+}
+#name,
+#surname,
+#email,
+#phoneNo {
+	width: 205px;
+}
+
+#currentPosition {
+	width: 430px;
+}
+
+#applyForm div {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+#experience {
+	width: 655px;
+}
+
+#candidatesCard {
+	height: 220px;
+	width: 940px;
+	margin: auto;
+	margin-bottom: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	display: block;
+}
+
+#divFinalApply {
+	width: 849px;
+	margin-left: 35px;
+	border-top: 1px solid rgb(228, 228, 228);
+}
+
+#candidatesLine {
+	margin-top: 15px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid rgb(228, 228, 228);
+	width: 850px;
+	height: 2px;
+	margin-left: 42px;
+}
