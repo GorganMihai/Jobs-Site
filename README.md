@@ -1,46 +1,58 @@
 Jobs Website 
 ==========================
-This web application consists of a SPA frontend built in React.js which uses a RESTful API back end for persistence
-
-## Screenshots
-
-<img src="./Img/All.png" width = 600 >
+This web application consists of a SPA frontend built in React.js which uses a RESTful API for persistence (Node.js + Mariadb)
 
 ## Features
 * React.js
 * RESTFul API
 * Maridb
-* node.js
+* Node.js
 * Sequelize
 * Express
 * Cors (Scross-Origin Resource)
 * Axios (HTTP request)
 * fbemitter (EventEmitter)
 
+## Screenshots
 
-## CocoaPods
-* CLTypingLabel
-* IQKeyboardManagerSwift 
-
-<img src="./Img/Intro.gif" width = 200 >  <img src="./Img/Keyboard.gif" width = 200 >
-
+<img src="./Img/overview.png" width = 600 >
+<img src="./Img/addJob.png" width = 600 >
+<img src="./Img/modify.png" width = 600 >
+<img src="./Img/addCandidate.png" width = 600 >
+<img src="./Img/viewandidates.png" width = 600 >
+<img src="./Img/database.png" width = 600 >
 
 ## How to build
 
 1) Clone the repository
 
 ```bash
-https://github.com/GorganMihai/FireChat.git
+https://github.com/GorganMihai/Jobs-Site.git
 ```
 
-2) Add all pods in description
+2) Install all packages
 
-3) Add Firebase packages
+```bash
+npm install
+```
 
+3) Run the React app
+
+```bash
+npm start
+```
+
+3) Run the server
+
+```bash
+node app.js
+```
+
+4) Press the Sync button to create the database 
 
 # Requirements 
 
-* Xcode 13
-* iOS 15.5
-* Swift 5
+* Mariadb
+* Node.js
+* Npm
 
